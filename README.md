@@ -1,6 +1,6 @@
 # Watch My House
 
-Connected Home using a Firefox OS
+Connected Home using Firefox OS
 
 ## Overview
 
