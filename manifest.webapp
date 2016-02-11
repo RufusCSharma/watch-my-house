@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Watch My House",
+  "launch_path": "/index.html",
+  "description": "Connected Home using a Firefox OS. Notify the user via alert on their phone if there is a noise in their house. And send live feed if they want to see what's going on.",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Mariot Tsitoara",
+    "url": "https://about.me/mariot.tsitoara"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Watch My House",
+      "description": "Connected Home using a Firefox OS. Notify the user via alert on their phone if there is a noise in their house. And send live feed if they want to see what's going on."
+    }
+  }
+}
