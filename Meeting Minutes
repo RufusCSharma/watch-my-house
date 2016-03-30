@@ -26,3 +26,71 @@ Language:
     PYTHON
     
 The ETA for the the tasks has to be decided. Will update the dates soon.
+
+30 - 03 - 2014,  10:00 PM IST/ 4:30 PM UTC :- 
+Planning Meeting Minutes:
+*****************************
+Attendees : Mariot Tsitoara, Rufus C Sharma, Ganesh, Tilak
+
+Project Agenda : If there is any noise detected, start the video recording and stream it live to the user.
+
+Project Phases:
+        Phase I :   Noise detection and Powering on the came
+                        Hardware Required :
+                            Option 1: Mic(Sound Sensor) - Wired, Raspberry PI, Cam - Wired
+                                                                                                                
+                            Option 2: Mic(Sound Sensor) - Wireless, Raspberry PI (With Wireless Modules), Cam - Wireless
+                        Software Required : To be Decided
+                                
+        Phase II :  Alert Notification and Tranferring the Video to user
+                        Hardware Required : Raspberry PI (with Ethernet Patch cable or someother Technology)
+                        Software Required :   To be Decided
+                        
+PHASE I :   Noise detection and Powering on the CAM
+*********
+
+We can have either wired connection or wireless connection. both has it own advantage and disadvantage.
+
+Wired:
+******
+
+    Advantages:
+
+    1. No Sepearte power required
+
+    2. Reliable in all environment
+
+    3. easy to use and operate
+
+    Disadvantages:
+
+    1. Physical cabling should be done. it Limits the movement of device from place to place..
+
+    2. it is fixed in one place
+
+    3. Pi should be near
+
+Wireless:
+*********
+
+    Advantages:
+
+    1. Can be installed anywhere.
+
+    2. No mess of cabling
+
+    3. Can be moved anywhere.
+
+    4. Pi need not to be nearer
+
+    disadvantages:
+
+    1. Sepearte power should be provided (battery)
+
+    2. Wireless enabled devices are needed
+
+    3. Cost is more compared to wired
+
+Task for team for the next meeting:
+    To decide on the technology, either Wired or Wireless.
+    
