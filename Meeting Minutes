@@ -94,3 +94,21 @@ Wireless:
 Task for team for the next meeting:
     To decide on the technology, either Wired or Wireless.
     
+
+
+
+07 - 04 - 2016,  10:30 PM IST/ 5:00 PM UTC :- 
+Planning Meeting Minutes - Phase I:
+*************************************
+Attendees : Rufus C Sharma , Sandraghassen [Ganesh], Tilak Marupilla
+
+Tasks to be done:
+********************
+ 
+Need to figure out whether the state things are available and possible
+1) Is there any wireless Sound sensor/MIC for PI (even any other board can be considered)
+2) Similarly any wireless Cam is available or not...
+3) If none of this available.. then we have to see for the possibility whether we can come up with one
+
+If none of this is possible then, The best option is wired sensor and wired cam directly connected/mounted to PI.. 
+and then we can access it through VNC, SSH or someother means.. this is bit cheaper one..    
